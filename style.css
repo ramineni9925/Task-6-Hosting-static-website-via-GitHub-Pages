@@ -1,12 +1,14 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-  background-color: #042b4b;
+  background-color: #fff5f5;
   margin: 50px;
 }
+
 h1 {
-  color: #a2acb6;
+  color: #c0392b;
 }
+
 p {
-  color: #7f8c8d;
+  color: #7f0000; 
 }
